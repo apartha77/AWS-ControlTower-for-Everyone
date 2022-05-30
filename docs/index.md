@@ -10,7 +10,7 @@ Website Link [https://apartha77.github.io/AWS-ControlTower-for-Everyone](https:/
 ## Control Tower Implemenation with CfCT & AFT
 
 - [Introduction to AWS Control Tower](Introduction.md)
-- [Setup Steps](docs/Setup-Steps.md)
+- [Setup Steps](Setup-Steps.md)
 - [Setup CfCT](CfCT.md)
 - [Setup AFT](AFT.md)
 
