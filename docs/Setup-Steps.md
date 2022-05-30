@@ -10,17 +10,13 @@ I will explain the steps involved in setting up a Greenfield or Browfield AWS Co
 
 
 
-
-## Website
-
-Website Link [https://wrijugh.github.io/python-for-kids/](https://wrijugh.github.io/python-for-kids/)
-
 [GitHub Repository](https://github.com/wrijugh/python-for-kids)
 
 Subscribe to the [YouTube Channel](https://www.youtube.com/playlist?list=PLH60I37xI-jmDGHF1S_2ld5Gb7x0tP0Fp) for **CodingKids**
 
+
 ---
-
-[Next: Introduction](00-anIntro.md)
-
-[Index](index.md)
+[Home](index.md)  
+[Next](Cfct.md)  
+[Previous](Introduction.md)  
+[Top](Setup-Steps.md)
